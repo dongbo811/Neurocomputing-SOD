@@ -15,7 +15,7 @@ The boundary quality is a key factor determining the success of accurate salient
 
 
 ## 2. Framework Overview
-![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/network.png)
+![](https://github.com/dongbo811/Neurocomputing-SOD/blob/main/bcnet_net.png)
 
 
 ## 3. Results
