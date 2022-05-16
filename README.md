@@ -1,7 +1,7 @@
 
 # Neurocomputing-BCNet
 
-This repo is the official implementation of [" BCNet: Bidirectional Collaboration Network for Edge-Guided Salient Object Detection"](https://www.sciencedirect.com/science/article/abs/pii/S0925231221000552). 
+This repo is the official implementation of ["BCNet: Bidirectional Collaboration Network for Edge-Guided Salient Object Detection"](https://www.sciencedirect.com/science/article/abs/pii/S0925231221000552). 
 
 
 
@@ -24,5 +24,17 @@ The source code, data and results can be find at [link](https://pan.baidu.com/s/
 
 If you want to improve the usability or any piece of advice, please feel free to contact me directly (bodong.cv@gmail.com).
 
-## 5. License
+## 5. Citation:
+```
+@article{dong2021bcnet,
+  title={BCNet: bidirectional collaboration network for edge-guided salient object detection},
+  author={Dong, Bo and Zhou, Yan and Hu, Chuanfei and Fu, Keren and Chen, Geng},
+  journal={Neurocomputing},
+  volume={437},
+  pages={58--71},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+## 6. License
 The source code is free for research and education use only. Any comercial use should get formal permission first.
