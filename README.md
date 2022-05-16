@@ -1,6 +1,3 @@
-# Neurocomputing-SOD
-
-
 
 # Neurocomputing-BCNet
 
@@ -19,6 +16,7 @@ The boundary quality is a key factor determining the success of accurate salient
 
 
 ## 3. Results
+![](https://github.com/dongbo811/Neurocomputing-SOD/blob/main/results.png)
 
 
 ## 4. FAQ:
