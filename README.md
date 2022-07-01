@@ -18,9 +18,9 @@ The boundary quality is a key factor determining the success of accurate salient
 ## 3. Results
 ![](https://github.com/dongbo811/Neurocomputing-SOD/blob/main/results.png)
 
-
+ 
 ## 4. FAQ:
-The source code, data and results can be find at [link](https://pan.baidu.com/s/16HgSfUyVLSGQLcnfANzmTg?pwd=3j6n)[3j6n]
+The source code, data and results can be find at [link](https://pan.baidu.com/s/1PE53Pd95gF3Mm30JX5EMWA?pwd=5axs)[5axs]
 
 If you want to improve the usability or any piece of advice, please feel free to contact me directly (bodong.cv@gmail.com).
 
